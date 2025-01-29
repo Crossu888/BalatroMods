@@ -22,7 +22,7 @@ SMODS.Joker {
         text = {
             'When a {C:attention}Flush{} is played with',
             '{C:spades}Spade{} cards, {X:mult,C:white} X#1# {} Mult per',
-            '{C:spectral}Spectral{} card in used this run',
+            '{C:spectral}Spectral{} card used this run',
             '{C:inactive}(Currently {X:mult,C:white} X#2# {}{C:inactive} Mult){}'
         }
     },
