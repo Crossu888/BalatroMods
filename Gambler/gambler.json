@@ -1,0 +1,13 @@
+{
+  "id": "thegambler",
+  "name": "Gambler's starter pack",
+  "author": ["Crossu"],
+  "description": "Gambling inpired mod for the gambling game",
+  "prefix": "gmblr",
+  "main_file": "main.lua",
+  "badge_colour": "8839ef",
+  "badge_text_colour": "#cdd6f4",
+  "display_name": "Gambler",
+  "version": "0.1.0",
+  "dependencies": ["Steamodded (>=1.*)", "Lovely (>=0.6)"]
+}
